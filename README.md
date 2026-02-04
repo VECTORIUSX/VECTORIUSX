@@ -59,14 +59,14 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VECTORIUSX&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000" height="160" alt="languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=VECTORIUSX&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&count_private=true&include_all_commits=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VECTORIUSX&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&count_private=true" height="160" alt="stats" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VECTORIUSX&theme=vision-friendly-dark&hide_border=true&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VECTORIUSX&theme=vision-friendly-dark&hide_border=true&background=000000" alt="streak" />
 </div>
 
 ---
